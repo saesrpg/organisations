@@ -4,9 +4,13 @@ This is a **dummy repository** for reporting and discussing **gang and group-rel
 
 ## 🎯 Purpose
 This repo exists to help the community and developers:
-- Report **bugs** related to gangs or groups, such as mapping, spawn etc.
+- Report **bugs** related to gangs or groups, such as mapping, spawn, etc.
 
-## 🧭 How to Contribute
+## 📖 How to guides
+There are certain formats required when requesting rewards, etc, for your organisation
+Please visit our wiki page here: [Organisation Wiki](https://github.com/saesrpg/organisations/wiki) for more information.
+
+## ⭐ How to submit a request
 1. **Open an Issue**  
    - Choose the appropriate label (e.g., *bug*, *feature request*, *discussion*).  
    - Clearly describe the problem, idea, or request.  
